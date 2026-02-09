@@ -18,6 +18,33 @@ namespace topic_5
             {
                 part2();
             }
+
+            if (part == 3)
+            {
+
+            }
+
+
+           static void part3()
+            {
+                Console.WriteLine("WELCOME to the how ell do you know ayden quiz!");
+                Console.WriteLine("this quiz will consist of 3 yes or no answers");
+                Console.WriteLine("and 2 multiple choice for a total of 5 questions!");
+                Console.WriteLine("you start with 0 points and will gain one for a right answer and then you will lose 1 if you get it wrong");
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
             static void part2()
             {
                 double number1;
